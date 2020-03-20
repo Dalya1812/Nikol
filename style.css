@@ -1,0 +1,41 @@
+body,
+
+html {
+    width: 100%;
+    height: 100%;
+    font-family: 'Bellota', sans-serif;
+  background: url(10.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+    
+    h1{
+    
+        margin-top: 50px;
+        font-size: 30PX;
+        color: brown;
+        text-transform: uppercase;
+
+
+    }
+
+.btn{
+    font-weight: 900;
+    font-size: 1.4rem;
+    border-radius:300px;
+    margin-right:34px;
+    margin-top: 300px;
+
+
+
+}
+
+.btn-dark{
+    background-color: black;
+    border-color: black;
+    border-width: 9px;
+    margin-left:14px;
+    margin-top: 300px;
+}
